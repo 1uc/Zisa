@@ -1,0 +1,18 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:1uc/ZisaCore
+[submodule "fvm"]
+	path = fvm
+	url = git@github.com:1uc/ZisaFVM
+[submodule "sfc"]
+	path = sfc
+	url = git@github.com:1uc/ZisaSFC
+[submodule "mpi"]
+	path = mpi
+	url = git@github.com:1uc/ZisaMPI
+[submodule "time_stepping"]
+	path = time_stepping
+	url = git@github.com:1uc/ZisaTimeStepping
+[submodule "memory"]
+	path = memory
+	url = git@github.com:1uc/ZisaMemory
