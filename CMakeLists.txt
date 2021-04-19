@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.13 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.14 FATAL_ERROR)
 project(Zisa LANGUAGES C CXX)
 
 set(as_subproject ZisaCore ZisaMemory ZisaMPI ZisaSFC ZisaFVM ZisaTimeStepping)
