@@ -1,0 +1,8 @@
+*.h
+*.hpp
+*.cuh
+*.cu
+*.cpp
+
+bin/*.sh
+bin/*.py

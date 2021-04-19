@@ -1,0 +1,24 @@
+# don't copy these
+build
+build-*
+cmake-build-*
+
+third_party/*
+doc/*
+data/*
+grids/*
+junk
+
+# LSF output files on the server would be deleted otherwise.
+lsf.o*
+
+runjobs.sh
+timeit.sh
+
+# archives
+archive
+*.tar
+*.tar.*
+*.tgz
+*.zip
+*.out
