@@ -16,3 +16,6 @@
 [submodule "memory"]
 	path = memory
 	url = git@github.com:1uc/ZisaMemory
+[submodule "docs"]
+	path = docs
+	url = git@github.com:1uc/ZisaDocs.git
