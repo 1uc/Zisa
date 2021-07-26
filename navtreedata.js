@@ -62,8 +62,8 @@ var NAVTREE =
       ] ],
       [ "Packaging with CMake", "md_cmake.html#autotoc_md27", null ]
     ] ],
-    [ "Superbuilds", "superbuilds.html", [
-      [ "Random Notes", "superbuilds.html#autotoc_md28", null ]
+    [ "Superbuild", "superbuild.html", [
+      [ "Random Notes", "superbuild.html#autotoc_md28", null ]
     ] ],
     [ "Contributing", "md_contributing.html", null ],
     [ "Github Page", "^https://github.com/1uc/zisa", null ]

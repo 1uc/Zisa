@@ -32,6 +32,6 @@ var NAVTREEINDEX0 =
 "md_dependencies.html#autotoc_md6":[1,1,2],
 "md_dependencies.html#autotoc_md7":[1,1,3],
 "pages.html":[],
-"superbuilds.html":[5],
-"superbuilds.html#autotoc_md28":[5,0]
+"superbuild.html":[5],
+"superbuild.html#autotoc_md28":[5,0]
 };
