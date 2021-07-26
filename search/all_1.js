@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['cmake_2',['CMake',['../md_cmake.html',1,'']]],
+  ['cmake_20usage_2',['CMake Usage',['../cmake_usage.html',1,'']]],
   ['cmake_2emd_3',['cmake.md',['../cmake_8md.html',1,'']]],
   ['conan_4',['Conan',['../md_conan.html',1,'']]],
   ['conan_2emd_5',['conan.md',['../conan_8md.html',1,'']]],
