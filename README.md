@@ -35,7 +35,7 @@ If this worked continue by adding [project specific flags] to the CMake
 command. If not it's not going to be a quick start. Please read
 [Dependencies] and then [Building].
 
-[project specific flags]: https://1uc.github.io/Zisa/md_cmake.html#cmake_flags
+[project specific flags]: https://1uc.github.io/Zisa/md_building.html#cmake_flags
 [Dependencies]: https://1uc.github.io/Zisa/md_dependencies.html
 [Building]: https://1uc.github.io/Zisa/md_building.html
 [Superbuilds]: https://1uc.github.io/Zisa/superbuild.html
